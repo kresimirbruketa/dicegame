@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dicegame/static/js/main.b75ea262.js",
+    "index.html": "/dicegame/index.html",
+    "main.b75ea262.js.map": "/dicegame/static/js/main.b75ea262.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b75ea262.js"
+  ]
+}
